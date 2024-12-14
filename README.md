@@ -2,6 +2,11 @@ In this project, let's build a **Prime Video** by applying the concepts we have 
 
 ### Refer to the video below:
 
+https://github.com/user-attachments/assets/de478b16-10cf-45de-b799-efda668f1e48
+
+
+
+
 <br/>
 <div style="text-align: center;">
   <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
